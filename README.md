@@ -1,3 +1,3 @@
-# Hi there 👋
+# .github
 
 An Overview of HiConfiT
