@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Logo created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/hobby)
+HiConfiT Logo created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/hobby)
 
 <!--
 
