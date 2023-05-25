@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Logo created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/hobby)
+
 <!--
 
 **Here are some ideas to get you started:**
