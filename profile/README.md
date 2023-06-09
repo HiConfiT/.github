@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We offer a range of open-source libraries and tools to support [Knowledge-Based Configuration].
+We offer a range of open-source libraries and tools to support [Knowledge-Based Configuration Systems].
 
 Our current list of libraries and tools includes the following:
 
@@ -14,7 +14,7 @@ Our current list of libraries and tools includes the following:
 For further detail about the projects, we refer to [hiconfit.manleviet.info].
 
 <!-- Links  -->
-[Knowledge-Based Configuration]: https://en.wikipedia.org/wiki/Knowledge-based_configuration
+[Knowledge-Based Configuration Systems]: https://en.wikipedia.org/wiki/Knowledge-based_configuration
 [**hiconfit-core**]: https://github.com/HiConfiT/hiconfit-core
 [**KBStatistics**]: https://github.com/HiConfiT/KBStatistics
 [**FMGenerator**]: https://github.com/HiConfiT/FMGenerator
