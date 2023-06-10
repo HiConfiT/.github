@@ -5,9 +5,9 @@ We offer a range of open-source libraries and tools to aid in research and devel
 Our current list of libraries and tools includes the following:
 
 1. [**hiconfit-core**] - A set of Maven-based libraries for High-Performance Knowledge Based Configuration Techniques. Three key libraries are:
-   1. **ca-cdr** - a library for Consistency-based Algorithms for Conflict Detection and Resolution.
+   1. **ca-cdr** - a library for Consistency-based Algorithms for Conflict Detection and Resolution
    2. **fma** - a library for Feature Model Testing and Debugging
-   3. **configurator** - a compact knowledge-based configurator supporting Matrix Factorization Based Variable Value Heuristics
+   3. **configurator** - a compact knowledge-based configurator supporting Matrix Factorization-based Configuration and Recommendation
 2. [**KBStatistics**] - a Java tool that calculates statistics of given knowledge bases
 3. [**FMGenerator**] - a Java tool that generates synthesized feature models
 
