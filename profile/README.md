@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We offer a range of open-source libraries and tools to support [Knowledge-Based Configuration Systems].
+We offer a range of open-source libraries and tools to aid in research and development in the field of [Knowledge-Based Configuration Systems].
 
 Our current list of libraries and tools includes the following:
 
